@@ -1,4 +1,4 @@
-# Breitenberg
+# Braintenberg
 Desarrollo de Código de Vehículo de Beitenberg
 Particularmente en este caso, funciona teniendo diferentes comportamientos ante los obstáculos a los que se encuentra. Para cambiar las acciones cometidas, simplemente hay que modificar los parámetros de las funciones asociadas, pero cumple todo la misma lógica. 
 
